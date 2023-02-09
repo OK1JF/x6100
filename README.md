@@ -5,7 +5,7 @@ Changes for both versions:
 - VOL/multi buttons - background to gray, text to white, left line 1px
 - AGC-F indicator - changed from yellow to white
 - background for VFO B - changed to gray
-- VFO A and B indicator - removed borders
+- VFO A and B indicator - removed borders, changed background to gray, text to white
 
 For using this file, please download requested version, rename file to x6100_ui_v100 and via SCP or SD card replace the original file in /usr/app_qt/ on your device. Then reboot the rig.
 
