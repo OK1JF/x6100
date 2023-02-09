@@ -9,4 +9,6 @@ Changes for both versions:
 
 For using this file, please download requested version, rename file to x6100_ui_v100 and via SCP or SD card replace the original file in /usr/app_qt/ on your device. Then reboot the rig.
 
+You can use GUI 1.1.5 with base 1.1.6. The radio will act based on 1.1.6 base (e.g. SQL for FM will not work) but with old GUI. 
+
 If there will be any issues, you can just simply reflash with original firmware to return back stock image.
